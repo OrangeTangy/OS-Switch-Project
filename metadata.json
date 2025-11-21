@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Stratus EOS & Telemetry",
+  "description": "A dual-pane simulator featuring a CLI-based Network Switch OS (EOS-style) and a real-time Cloud Telemetry dashboard. Demonstrates systems programming concepts, intent-based networking via Gemini AI, and streaming analytics.",
+  "requestFramePermissions": []
+}
